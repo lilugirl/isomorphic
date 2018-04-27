@@ -7,3 +7,6 @@ $ node main.js
 
 
 在浏览器打开 http://127.0.0.1:1377  页面跳转成功
+
+
+好奇之下 对main.js进行构建 发现index.html引用bundle.js报错
